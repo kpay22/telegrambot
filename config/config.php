@@ -11,8 +11,8 @@ define('DB_PASS', 'abc8888');
 define('DB_CHARSET', 'utf8mb4');
 
 // Telegram Bot配置
-define('BOT_TOKEN', '8447265680:AAEy0vuKSStgkl_Nf_3PO9tqSUvzAuzv1Pk'); // 请替换为您的Bot Token
-define('BOT_USERNAME', '@vsunorgBot'); // 请替换为您的Bot用户名
+define('BOT_TOKEN', 'token'); // 请替换为您的Bot Token
+define('BOT_USERNAME', '@laqie开发者'); // 请替换为您的Bot用户名
 
 // API配置
 define('TELEGRAM_API_URL', 'https://api.telegram.org/bot' . BOT_TOKEN . '/');
@@ -38,3 +38,4 @@ date_default_timezone_set(DEFAULT_TIMEZONE);
 // 错误报告
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
+
