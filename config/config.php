@@ -5,9 +5,9 @@
 
 // 数据库配置
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'abc8888');
-define('DB_USER', 'abc8888');
-define('DB_PASS', 'abc8888');
+define('DB_NAME', '数据库');
+define('DB_USER', '数据库');
+define('DB_PASS', '数据库');
 define('DB_CHARSET', 'utf8mb4');
 
 // Telegram Bot配置
@@ -38,4 +38,5 @@ date_default_timezone_set(DEFAULT_TIMEZONE);
 // 错误报告
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
+
 
