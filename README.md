@@ -2,7 +2,7 @@
 
 一个功能完整的Telegram记账机器人，支持群组记账、费率汇率管理、操作员权限控制等功能。
 
-如需高级功能定制，请联系Telegram：@laqie      @vsunorgBot
+如需高级功能定制，请联系Telegram：@laqie
 
 # 你也可以直接使用我们的现有纯净无广告机器人：vsunorgBot
 
@@ -367,5 +367,6 @@ MIT License
 
 
 如有问题，请提交Issue或联系开发者。
+
 
 
