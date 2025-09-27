@@ -7,6 +7,8 @@
 # 你也可以直接使用我们的现有纯净无广告机器人：vsunorgBot
 
 开源版本仍在开发中，未来陆续新增更多功能！
+<img width="473" height="508" alt="image" src="https://github.com/user-attachments/assets/2a813d3d-b1c9-4e4e-8a4c-e0857b8b9262" />
+<img width="466" height="708" alt="image" src="https://github.com/user-attachments/assets/8a68bb3c-5bc7-4651-9e2b-443c8fb3e301" />
 
 ## ✨ 功能特点
 
@@ -367,6 +369,7 @@ MIT License
 
 
 如有问题，请提交Issue或联系开发者。
+
 
 
 
